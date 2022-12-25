@@ -2,7 +2,7 @@
 layout: page
 title: Forest monitoring
 description: I'm working on monitorting the behaviour of trees from aerial imagery. This project is currently in progress.
-img: assets/img/autumn.jpg
+img: assets/img/iceleads.jpg
 importance: 1
 category: work
 ---
