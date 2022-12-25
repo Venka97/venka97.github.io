@@ -2,7 +2,7 @@
 layout: page
 title: Ice lead detection
 description: Ice leads are narrow cracks in the sea-ice, which build a complex network. We worked on analyzing the dynamics of ice leads using graph neural networks.
-img:  
+img:  assets/img/iceleads.jpg
 importance: 3
 category: fun
 ---
