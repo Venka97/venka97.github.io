@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: Face-Swap CV
+description: A project to swap faces in live videos with OpenCV, DLib and Haar cascades.
+img: assets/img/face_mask.jpg
 importance: 3
 category: fun
 ---
