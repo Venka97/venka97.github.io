@@ -18,8 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-.
-Hi! I am a Venkatesh, a PhD candidate at  [Mila - Quebec Artificial Intelligence Institute] (https://mila.quebec/) working in [David Rolnick's] (https://davidrolnick.com) group. My research interests are in applying AI to applications in climate science and biodiversity conservation.
+Hi! I am a Venkatesh, a PhD candidate at  [Mila - Quebec Artificial Intelligence Institute](https://mila.quebec/) working in [David Rolnick's](https://davidrolnick.com) group. My research interests are in applying AI to applications in climate science and biodiversity conservation.
 
  <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
