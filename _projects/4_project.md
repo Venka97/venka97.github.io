@@ -7,7 +7,7 @@ importance: 3
 category: fun
 ---
 
-An extended report for this work can be found [here](assets/../../assets/pdf/IceLeadNetworkAnalysis.pdf).
+An extended report for this work can be found [here](/assets/pdf/IceLeadNetworkAnalysis.pdf).
 
 Ice lead analysis is an essential task for evaluating climate change processes in the Arctic. Ice leads are narrow cracks in the sea-ice, which build a complex network. While detecting and modeling ice leads has been performed in numerous ways based on airborne images, the dynamics of ice leads over time remain hidden and largely unexplored. These dynamics could be analyzed by interpreting the ice leads as more than just airborne images, but as what they really are: a dynamic network. 
 
