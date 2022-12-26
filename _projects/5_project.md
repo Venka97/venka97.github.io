@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Face-Swap CV
 description: A project to swap faces in live videos with OpenCV, DLib and Haar cascades.
@@ -77,4 +77,4 @@ Here's the code for the last row of images above:
     </div>
 </div>
 ```
-{% endraw %}
+{% endraw %} -->
