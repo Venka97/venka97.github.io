@@ -29,5 +29,3 @@ The spatio-temporal analysis of the ice leads exhibits seasonal, annual, and ove
 
 Most notably, current network science methods (1) exploit the information that is embedded into the connections of the network, e.g., in connection clusters, while (2) nodes remain relatively fixed over time. Ice lead networks, however, (1) embed their relevant information spatially, e.g., in spatial clusters, and (2) shift and change drastically. These differences require improvements and modifications on common graph classification and link prediction methods such as Preferential Attachment and EvolveGCN on the domain of ice lead dynamic networks.
 This work is a call for extending existing network analysis toolkits to include a new class of real-world dynamic networks. Utilizing network science techniques will hopefully further our understanding of ice leads and thus of Arctic processes that are key to climate change mitigation and adaptation.
-
-{% endraw %}
